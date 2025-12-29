@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "Into Gray",
+  "base_track": "Into Gray（feat. yuki）",
   "base_artist": "Laplacian",
-  "createdAt": "2025-12-01T11:03:39.690039Z",
+  "createdAt": "2025-12-29T13:22:05.185633Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,14 +11,6 @@
       "artist": "Laplacian",
       "has_synced": false,
       "path": "select/pl_01_Into_Gray_(feat._yuki)_Laplacian.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Into Gray (Epiphany Edition)",
-      "artist": "Laplacian",
-      "has_synced": false,
-      "path": "select/pl_02_Into_Gray_(Epiphany_Edition)_Laplacian.txt"
     }
   ]
 }
