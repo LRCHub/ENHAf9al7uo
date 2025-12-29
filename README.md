@@ -1,4 +1,4 @@
-# Laplacian – Into Gray
+# Laplacian – Into Gray（feat. yuki）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
